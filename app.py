@@ -52,7 +52,7 @@ def check_password(pwd: str) -> bool:
 
 # ── Page setup ───────────────────────────────────────────────────────────────
 st.set_page_config(
-    page_title="Friends Chat",
+    page_title="Jalta 7040 Hard Rock Team",
     page_icon="💬",
     layout="centered",
 )
